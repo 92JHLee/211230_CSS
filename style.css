@@ -1,0 +1,28 @@
+a:link{
+color:#pink;
+text-decoration:none;
+}
+a:visited{
+    color:#purple;
+}
+a:hover{
+    color:red;
+    text-decoration:underline;
+}
+
+h3{
+    color:green;
+    font-size:30px;
+    text-align:center;
+    text-decoration:none;
+    text-shadow:3px 3px 5px;
+    font-family:"궁서체";
+    font-style:italic;
+    font-weight:bold;
+
+}
+
+p{
+    color:#912bc5;
+    font-family:"궁서체";
+}
